@@ -8,10 +8,8 @@
 <br>
 <li>COWS indicate the number of correct digits guessed, in the right positions.</li>
 <br>
-<li>The file <i>'save.txt'</i> is used to store the details of a player.</li>
+<li>An external file called <i>'save.txt'</i> is used to store the details of a player.</li>
 <br>
-<i>(In this repository, the above mentioned file to store player details is empty)</i>
-</ul>
 
 ## OUTCOME
 Winners and respective leaderboard will be displayed in accordance to the least time taken.
