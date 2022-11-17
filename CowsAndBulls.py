@@ -160,8 +160,7 @@ class PageTwo(tk.Frame):
                                     "YOU WON!\nLEADERBOARD\n1-{}\n2-{}\n3-{}\nYOUR RANK:{}".format(usersrank[0],
                                                                                                    usersrank[1],
                                                                                                    usersrank[2],
-                                                                                                   usersrank.index(
-                                                                                                       name) + 1))
+                                                                                                   usersrank.index(name) + 1))
                 master.destroy()
 
         tk.Button(self, text="NEXT GUESS", font=('Helvetica', 11, "bold"), width=15, height=1, bg='lightblue1',
